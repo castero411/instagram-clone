@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:instagram/core/theme/themes.dart';
-import 'package:instagram/features/main_page/pages/main_page.dart';
+import 'package:instagram/features/feed/pages/main_page.dart';
 
 void main() {
   runApp(ProviderScope(child: const MyApp()));
